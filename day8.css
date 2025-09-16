@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #f4f4f4;
+    background: #e7dede;
     margin: 0;
     padding: 20px;
 }
@@ -15,7 +15,7 @@ button {
     font-size: 16px;
     border: none;
     border-radius: 5px;
-    background: #007bff;
+    background: #3894f7;
     color: white;
     cursor: pointer;
     transition: background 0.2s;
